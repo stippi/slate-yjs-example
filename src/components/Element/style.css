@@ -1,4 +1,52 @@
-blockquote::before {
-  content: ' ';
-  @apply bg-gray-400 w-1 min-w-max mr-3;
+.scene-heading {
+    font-family: Courier;
+    font-size: 12pt;
+    text-transform: uppercase;
+    padding-top: 24pt;
+    line-height: 100%;
+    text-decoration: underline;
+} 
+
+.action {
+    font-family: Courier;
+    font-size: 12pt;
+    padding-top: 12pt;
+    line-height: 100%;
+}
+
+.character {
+    font-family: Courier;
+    font-size: 12pt;
+    text-transform: uppercase;
+    padding-top: 12pt;
+    padding-left: 2.0in;
+    line-height: 100%;
+}
+
+.parenthetical {
+    font-family: Courier;
+    font-size: 12pt;
+    text-indent: -1ch;
+    padding-left: 1.5in;
+    padding-right: 2.1in;
+    line-height: 100%;
+}
+
+.dialog {
+    font-family: Courier;
+    font-size: 12pt;
+    padding-left: 1.0in;
+    padding-right: 1.6in;
+    line-height: 100%;
+}
+
+.transition {
+    text-align: right;
+    font-family: Courier;
+    font-size: 12pt;
+    text-transform: uppercase;
+    padding-top: 12pt;
+    padding-left: 4.1in;
+    padding-right: 0.4in;
+    line-height: 100%;
 }

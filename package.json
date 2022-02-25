@@ -4,23 +4,22 @@
   "private": true,
   "scripts": {
     "start": "vite",
-    "dev": "yarn start",
     "build": "APP_ENV=production vite build",
-    "serve": "vite preview",
-    "deploy": "yarn netlify deploy --prod --dir ./dist"
+    "serve": "vite preview"
   },
   "dependencies": {
-    "@hocuspocus/provider": "^1.0.0-alpha.29",
-    "@slate-yjs/core": "workspace:^",
-    "@slate-yjs/react": "workspace:^",
+    "@slate-yjs/core": "^0.2.0",
+    "@slate-yjs/react": "^0.2.0",
     "clsx": "^1.1.1",
     "faker": "^5.5.3",
     "randomcolor": "^0.6.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^6.0.1",
-    "slate": "^0.72.8",
-    "slate-react": "^0.70.0",
+    "slate": "^0.73.0",
+    "slate-react": "^0.73.0",
+    "y-protocols": "^1.0.5",
+    "y-websocket": "^1.3.18",
     "yjs": "^13.5.27"
   },
   "devDependencies": {

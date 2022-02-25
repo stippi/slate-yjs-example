@@ -15,37 +15,10 @@ export type CustomText = {
   text: string;
 };
 
-export type Paragraph = {
-  type: 'paragraph';
-  children: Descendant[];
-};
-
-export type InlineCode = {
-  type: 'inline-code';
-  children: Descendant[];
-};
-
-export type HeadingOne = {
-  type: 'heading-one';
-  children: Descendant[];
-};
-
-export type HeadingTwo = {
-  type: 'heading-two';
-  children: Descendant[];
-};
-
-export type BlockQuote = {
-  type: 'block-quote';
-  children: Descendant[];
-};
-
-export type CustomElement =
-  | Paragraph
-  | InlineCode
-  | HeadingOne
-  | HeadingTwo
-  | BlockQuote;
+export type CustomElement = {
+    type: string;
+    children: Descendant[];
+}
 
 export type CustomEditor = ReactEditor &
   YjsEditor &
