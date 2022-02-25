@@ -1,6 +1,6 @@
 # Slate-Yjs Example
 
-Almost verbatim copy of the [frontend example](https://github.com/BitPhinix/slate-yjs/tree/next/examples/frontend) included in the awesome [Slate-Yjs bindings]https://github.com/BitPhinix/slate-yjs.
+Almost verbatim copy of the [frontend example](https://github.com/BitPhinix/slate-yjs/tree/next/examples/frontend) included in the awesome [Slate-Yjs bindings](https://github.com/BitPhinix/slate-yjs).
 
 ## Running
 
