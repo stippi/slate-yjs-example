@@ -193,9 +193,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "He rolls over, looks up at us and sighs. He doesn't seem too thrilled at the prospect of a new day."
@@ -354,7 +353,6 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
     type: "character",
     children: [
@@ -603,9 +601,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "LESTER (V.O.)"
@@ -613,7 +610,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Man. I get exhausted just watching her."
@@ -779,7 +776,6 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
     type: "character",
     children: [
@@ -940,9 +936,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "LESTER"
@@ -950,7 +945,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Hello, this is Lester Burnham from Media Monthly magazine, I'm calling for Mr. Tamblin, please?... Well, we're all under a deadline here, uh, but you see, there is some basic information about the product launch that isn't even covered in your press release and I... Yeah. Can I ask you a question? Who is Tamblin? Does he exist? 'Cause he doesn't ever seem to come in... Yeah, okay, I'll leave my number..."
@@ -1109,9 +1104,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "LESTER"
@@ -2034,15 +2028,7 @@ export const sampleDocument: Descendant[] =  [
     type: "action",
     children: [
       {
-        text: "His head suddenly jerks up and he looks at us, as if he"
-      }
-    ]
-  },
-  {
-    type: "action",
-    children: [
-      {
-        text: "realizes he's being watched."
+        text: "His head suddenly jerks up and he looks at us, as if he realizes he's being watched."
       }
     ]
   },
@@ -2207,16 +2193,15 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "character",
+    type: "action",
     children: [
       {
         text: "MONTAGE"
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "We see Carolyn, working with fierce concentration as she: Cleans glass doors that overlook the patio and pool; Doggedly scrubs countertops in the kitchen; Perches on a stepladder to dust a cheap-looking ceiling fan in the master bedroom; And vacuums a dirty carpet that will never be clean. Throughout all this, she keeps repeating to herself:"
@@ -2375,9 +2360,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "CAROLYN (cont’d)"
@@ -2385,7 +2369,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Well, why don't we go into the kitchen?"
@@ -2552,7 +2536,6 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
     type: "character",
     children: [
@@ -2697,9 +2680,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "ANGELA"
@@ -2707,7 +2689,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Who are you looking for?"
@@ -3522,9 +3504,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "Lester waves awkwardly as he crosses off."
@@ -3691,9 +3672,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "JANE"
@@ -3701,7 +3681,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "I'm sorry my dad was so weird tonight."
@@ -3828,7 +3808,6 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
     type: "action",
     children: [
@@ -4005,7 +3984,6 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
     type: "action",
     children: [
@@ -4198,9 +4176,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "BARBARA"
@@ -4208,7 +4185,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Hello."
@@ -4439,7 +4416,6 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
     type: "character",
     children: [
@@ -5072,7 +5048,6 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
     type: "character",
     children: [
@@ -5281,9 +5256,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "JANE"
@@ -5291,7 +5265,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "I know. I kinda remember this really creepy incident when you were filming me last night?"
@@ -5938,7 +5912,6 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
     type: "character",
     children: [
@@ -6155,9 +6128,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "RICKY"
@@ -6165,7 +6137,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Excuse me. Don't you live on Robin Hood Trail? The house with the red door?"
@@ -6517,15 +6489,15 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "scene-heading",
+    type: "dialog",
     children: [
       {
-        text: "INTERNAL. LOOK. ' NOT PAYING YOU TO - NOON"
+        text: "Look. I'm not paying you to..."
       }
     ]
   },
   {
-    type: "action",
+    type: "parenthetical",
     children: [
       {
         text: "(eyes Lester, suspiciously)"
@@ -6533,7 +6505,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "...do whatever it is you're doing out here."
@@ -6556,9 +6528,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "CATERING BOSS"
@@ -6566,7 +6537,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Excuse me?"
@@ -6781,9 +6752,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "RICKY"
@@ -6791,7 +6761,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Yeah. Jane."
@@ -7022,9 +6992,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "His POV: Angela leans against the counter, twirling her hair."
@@ -7183,9 +7152,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "CAROLYN"
@@ -7616,9 +7584,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "ANGELA (cont’d)"
@@ -7626,7 +7593,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "See?"
@@ -8329,9 +8296,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "CAROLYN"
@@ -8339,7 +8305,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "You were masturbating."
@@ -8538,9 +8504,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "LESTER"
@@ -8548,7 +8513,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "I'm not? Well then, come on, baby! I'm ready."
@@ -8683,9 +8648,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "LESTER"
@@ -8693,7 +8657,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Hey! You guys!"
@@ -8868,9 +8832,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "LESTER"
@@ -8878,7 +8841,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Hey! Yo! Ricky!"
@@ -8886,7 +8849,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "parenthetical",
     children: [
       {
         text: "(re: the Jims)"
@@ -8894,7 +8857,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "My entire life is passing before my eyes, and those two have barely broken a sweat."
@@ -9109,9 +9072,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "LESTER"
@@ -9119,7 +9081,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Sure."
@@ -9326,9 +9288,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "RICKY"
@@ -9559,9 +9520,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "RICKY"
@@ -9569,7 +9529,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "That sucks."
@@ -9736,9 +9696,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "CAROLYN"
@@ -9746,7 +9705,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "What the hell do you think you're doing?"
@@ -9921,9 +9880,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "BRAD"
@@ -10098,9 +10056,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "LESTER"
@@ -10108,7 +10065,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Well, what do you say I throw in a little sexual harassment charge to boot?"
@@ -10323,9 +10280,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "BUDDY"
@@ -10333,7 +10289,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "I'm so sorry I kept you waiting. Christy left for New York this morning, and... let's just say things were very hectic around the house."
@@ -10508,9 +10464,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "ANGELA (O.S.)"
@@ -10518,7 +10473,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "What are you doing?"
@@ -10765,9 +10720,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "RICKY"
@@ -10775,7 +10729,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "It's okay. I'll walk. But thanks."
@@ -10823,10 +10777,10 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "scene-heading",
+    type: "dialog",
     children: [
       {
-        text: "INTERNAL. THINK ' GOING TO WALK, TOO - NOON"
+        text: "I think I'm going to walk, too."
       }
     ]
   },
@@ -10966,7 +10920,6 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
     type: "character",
     children: [
@@ -11351,9 +11304,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "They laugh."
@@ -11592,9 +11544,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "JANE"
@@ -11602,7 +11553,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "The people who used to live there fed these stray cats, so they were always around, and it drove my mother nuts. And then she cut down their tree."
@@ -12033,9 +11984,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "RICKY (cont’d)"
@@ -12043,7 +11993,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "My dad would kill me if he knew I was in here."
@@ -12546,9 +12496,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "LESTER"
@@ -12556,7 +12505,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Lose it? I didn't lose it. It's not like, \"Oops, where'd my job go?\" I quit. Someone pass me the asparagus."
@@ -12715,9 +12664,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "CAROLYN"
@@ -12908,9 +12856,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "She stares at Jane, then starts to cry."
@@ -13069,9 +13016,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "She stands there with her breasts exposed, trying to look defiant, but she's achingly vulnerable..."
@@ -13262,9 +13208,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "COLONEL"
@@ -13272,7 +13217,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "What were you looking for? Money? Are you on dope again?"
@@ -13487,9 +13432,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "COLONEL"
@@ -13497,7 +13441,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Oh, Ricky..."
@@ -13865,7 +13809,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "LESTER (cont'd)"
@@ -13873,7 +13817,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Have you done something different? You look great."
@@ -14048,9 +13992,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "CAROLYN"
@@ -14058,7 +14001,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "This is a four thousand dollar sofa upholstered in Italian silk. This is not \"just a couch.\""
@@ -14249,9 +14192,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "JANE"
@@ -14259,7 +14201,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "I'm not going to sit here for that shit."
@@ -14450,9 +14392,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "RICKY"
@@ -14460,7 +14401,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "He's not a bad man."
@@ -14852,10 +14793,10 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "scene-heading",
+    type: "dialog",
     children: [
       {
-        text: "INTERNAL. YOU KNOW ' NOT SERIOUS, RIGHT? - NOON"
+        text: "You know I'm not serious, right?"
       }
     ]
   },
@@ -14883,9 +14824,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "RICKY (cont’d)"
@@ -14893,7 +14833,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Do you know how lucky we are to have found each other?"
@@ -15028,9 +14968,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "JANE"
@@ -15038,7 +14977,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Mom, is it okay if Angela sleeps over tonight?"
@@ -15421,9 +15360,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "CLOSE on the Colonel, deeply troubled."
@@ -15598,9 +15536,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "CAROLYN (O.S.)"
@@ -15815,9 +15752,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "Carolyn struggles to appear nonchalant."
@@ -16052,15 +15988,7 @@ export const sampleDocument: Descendant[] =  [
     type: "action",
     children: [
       {
-        text: "Carolyn closes her eyes, defeated, then grabs the wheel,"
-      }
-    ]
-  },
-  {
-    type: "action",
-    children: [
-      {
-        text: "shifts gears and drives off."
+        text: "Carolyn closes her eyes, defeated, then grabs the wheel, shifts gears and drives off."
       }
     ]
   },
@@ -16224,9 +16152,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "He reaches under the bench and grabs a CIGAR BOX. Opening it, he digs through MARIJUANA PARAPHERNALIA, only to pull out an empty ZIP-LOC BAG."
@@ -16417,9 +16344,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "JANE"
@@ -16427,7 +16353,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Yeah, and maybe you shouldn't, all right? Maybe I don't really want to hear all that."
@@ -16610,9 +16536,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "Lester sits in the bowl chair and leans back, his hands behind his head, watching Ricky roll the joint."
@@ -16795,9 +16720,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "LESTER"
@@ -16805,7 +16729,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Some."
@@ -17028,9 +16952,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "COLONEL"
@@ -17038,7 +16961,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "What did he make you do?"
@@ -17277,9 +17200,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "COLONEL"
@@ -17458,15 +17380,7 @@ export const sampleDocument: Descendant[] =  [
     type: "action",
     children: [
       {
-        text: "The Colonel's POV: Below us, Ricky dashes through the rain to the Burnham's front door and knocks. Lester opens it and lets"
-      }
-    ]
-  },
-  {
-    type: "action",
-    children: [
-      {
-        text: "him in."
+        text: "The Colonel's POV: Below us, Ricky dashes through the rain to the Burnham's front door and knocks. Lester opens it and lets him in."
       }
     ]
   },
@@ -17638,9 +17552,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "There is a KNOCK on the door. Jane sits up, alarmed."
@@ -17879,9 +17792,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "ANGELA"
@@ -17889,7 +17801,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Jane, you'd be out of your mind to go with him."
@@ -18256,9 +18168,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "COLONEL"
@@ -18481,9 +18392,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "The Colonel reaches up and places his hand on Lester's cheek... and then kisses him. Lester is momentarily stunned, and then he pushes the Colonel away. The Colonel's face crumples in shame."
@@ -18642,9 +18552,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "Lester leans against the wall and takes a swig of his beer."
@@ -18891,9 +18800,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "His face is very close to hers. She's unnerved--this is happening too fast..."
@@ -19092,9 +19000,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "JANE"
@@ -19102,7 +19009,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Are you scared?"
@@ -19293,9 +19200,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "ANGELA (cont’d)"
@@ -19518,9 +19424,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "Her POV: The RED DOOR of the Burnham house stands out, even in the pouring rain."
@@ -19751,9 +19656,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "LESTER"
@@ -19984,9 +19888,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "Then a GUNSHOT suddenly rings out, ECHOING unnaturally. Instantly, the tile is sprayed with BLOOD, the same deep crimson as the roses."
@@ -20153,9 +20056,8 @@ export const sampleDocument: Descendant[] =  [
       }
     ]
   },
-
   {
-    type: "dialog",
+    type: "action",
     children: [
       {
         text: "His POV: A DOT OF LIGHT falls across an unbelievably starry sky."
@@ -20303,15 +20205,6 @@ export const sampleDocument: Descendant[] =  [
     children: [
       {
         text: "In BLACK & WHITE: A 1970 PONTIAC FIREBIRD in the driveway of a suburban home. The SUN'S REFLECTION in the windshield FLASHES BRILLIANTLY."
-      }
-    ]
-  },
-
-  {
-    type: "dialog",
-    children: [
-      {
-        text: "104."
       }
     ]
   },
@@ -20472,14 +20365,6 @@ export const sampleDocument: Descendant[] =  [
     children: [
       {
         text: "And... Carolyn."
-      }
-    ]
-  },
-  {
-    type: "action",
-    children: [
-      {
-        text: "105."
       }
     ]
   },

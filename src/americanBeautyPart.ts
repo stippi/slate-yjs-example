@@ -605,7 +605,7 @@ export const sampleDocument: Descendant[] =  [
   },
 
   {
-    type: "dialog",
+    type: "character",
     children: [
       {
         text: "LESTER (V.O.)"
@@ -613,7 +613,7 @@ export const sampleDocument: Descendant[] =  [
     ]
   },
   {
-    type: "action",
+    type: "dialog",
     children: [
       {
         text: "Man. I get exhausted just watching her."
